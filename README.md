@@ -31,7 +31,7 @@ git clone https://github.com/xitmakes/scope.sh.git
 
 ```
 
-##Demo 
+## Demo 
 ![Demo](./usage.gif)
 
 ## Usage
